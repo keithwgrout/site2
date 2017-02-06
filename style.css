@@ -1,3 +1,27 @@
 * {
-	border: 1px solid red;
+	/*border: 1px solid red;*/
+}
+
+.nav a {
+	font-size: 2em;
+	color: #757575;
+}
+
+.navbar {
+	min-height: 100px;
+}
+
+.nav {
+	margin-top: 45px;
+}
+
+.jumbotron {
+	background: url(https://unsplash.it/g/1440/800);
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height: 800px;
+}
+
+.intro {
+	background-color: black;
 }
